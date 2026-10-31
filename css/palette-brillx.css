@@ -10,3 +10,4 @@
   color-scheme: dark;
 }
 .lb-hero-official__btn, .vl-bonus__cta, .vl-seo__btn, .lb-modal__btn, .lb-header-logo__btn, .hub-btn { color: #14100a; }
+.lb-hero-official__btn { padding: 0 32px; justify-content: center; }
