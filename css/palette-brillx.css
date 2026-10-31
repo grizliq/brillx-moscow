@@ -1,0 +1,12 @@
+/* Brillx — тёмная тема, оранжевый бренд-цвет. Подключать после tokens.css */
+:root {
+  --vl-bg: #0D0F14; --vl-surface: #151821; --vl-surface-2: #1C2029; --vl-panel: #232835;
+  --vl-text: #FFFFFF; --vl-text-soft: #D3D7E0; --vl-text-muted: #8E95A4;
+  --vl-red: #F7931E; --vl-red-hot: #E2760A; --vl-red-soft: #FFAA45;
+  --vl-amber: #FFB347; --vl-amber-hi: #FFD28C;
+  --lb-accent: #F7931E;
+  --lb-c-2589FF: #F7931E; --lb-c-25475C: #D3D7E0; --lb-c-111117: #FFFFFF; --lb-c-FFFFFF: #FFFFFF;
+  --lb-c-5A7EA8: #8E95A4; --lb-c-2A7AD9: #E2760A; --lb-c-262D36: #232835; --lb-c-06060C: #0D0F14; --lb-c-09091C: #151821;
+  color-scheme: dark;
+}
+.lb-hero-official__btn, .vl-bonus__cta, .vl-seo__btn, .lb-modal__btn, .lb-header-logo__btn, .hub-btn { color: #14100a; }
